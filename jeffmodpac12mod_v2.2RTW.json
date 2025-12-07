@@ -2927,14 +2927,14 @@
                      "secondaryColor":"#EDEBEB",
                      "zipcode":"47401",
                      "attributes":{
-                        "stadium":5,
-                        "facilities":6,
+                        "stadium":6,
+                        "facilities":7,
                         "collegeLife":9,
                         "academics":8,
                         "marketing":4,
-                        "prestige":4,
+                        "prestige":8,
                         "attendance":32000,
-                        "fanbaseLevel":2
+                        "fanbaseLevel":5
                      },
                      "archetype":"football-second",
                      "fanbaseType":"volatile",
@@ -3832,8 +3832,8 @@
                         "facilities":10,
                         "collegeLife":9,
                         "academics":7,
-                        "marketing":4,
-                        "prestige":7,
+                        "marketing":8,
+                        "prestige":9,
                         "attendance":20000,
                         "fanbaseLevel":5
                      },
@@ -3871,11 +3871,11 @@
                      "zipcode":"98195",
                      "attributes":{
                         "stadium":7,
-                        "facilities":7,
+                        "facilities":8,
                         "collegeLife":9,
                         "academics":8,
                         "marketing":6,
-                        "prestige":7,
+                        "prestige":8,
                         "attendance":36000,
                         "fanbaseLevel":5
                      },
@@ -5553,4 +5553,5 @@
          ]
       }
    ]
+
 }
